@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+}
+#title{
+
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+    
+}
+.yay{
+    margin-top: 500px;
+    font-size: 20px;
+}
+.lol{
+    font-size: 20px;
+    margin-top: 5px;
+    border: 10px;
+    border-color: blue;
+    float: right;
+}
+.instructions{
+    display:inline-block;
+    width: 45%;
+
+}
+.modal-dialog{
+
+    width: 90%;
+}
+.footer{
+    text-align: center;
+    font-size: 19px;
+    background-color:black ;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
